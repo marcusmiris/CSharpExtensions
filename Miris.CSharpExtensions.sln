@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miris.CSharpExtensions", "Miris.CSharpExtensions\Miris.CSharpExtensions.csproj", "{5B9A728A-B858-4520-A8CC-7D1D1BA692B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miris.CSharpExtensions", "Miris.CSharpExtensions\Miris.CSharpExtensions.csproj", "{AE1E254B-353A-43C9-9907-1445F112D0FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B9A728A-B858-4520-A8CC-7D1D1BA692B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B9A728A-B858-4520-A8CC-7D1D1BA692B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B9A728A-B858-4520-A8CC-7D1D1BA692B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B9A728A-B858-4520-A8CC-7D1D1BA692B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1E254B-353A-43C9-9907-1445F112D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1E254B-353A-43C9-9907-1445F112D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1E254B-353A-43C9-9907-1445F112D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1E254B-353A-43C9-9907-1445F112D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
